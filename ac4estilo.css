@@ -1,0 +1,25 @@
+.fundocaixa{
+    background-color: aqua
+
+}
+
+input[type=text]:focus{
+    background-color: white;
+}
+input[type=text]{
+    width: 300px;
+}
+input[type=email]{
+    width: 300px;
+}
+input[type=checkbox]{
+    margin-left: 85px;
+}
+input[type=radio]{
+    margin-left: 85px;
+}    
+textarea:focus{
+    background-color: white;
+    
+}
+
